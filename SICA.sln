@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SICA", "SICA\SICA.csproj", "{D6156961-511F-482E-B2D2-EAF9873722A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{3AD04287-2654-476E-8860-302547A9CA1B}"
+	ProjectSection(SolutionItems) = preProject
+		SICA\Imagenes\granel.png = SICA\Imagenes\granel.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6156961-511F-482E-B2D2-EAF9873722A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6156961-511F-482E-B2D2-EAF9873722A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6156961-511F-482E-B2D2-EAF9873722A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6156961-511F-482E-B2D2-EAF9873722A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED82A5C0-DCA3-4863-A416-0FCC912B8C12}
+	EndGlobalSection
+EndGlobal
